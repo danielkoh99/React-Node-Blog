@@ -15,7 +15,7 @@
         "cors": "^2.8.5",
         "dotenv": "^8.2.0",
         "epilogue": "^0.7.1",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "express-fileupload": "^1.1.7-alpha.3",
         "express-session": "^1.15.6",
         "file-system": "^2.2.2",
